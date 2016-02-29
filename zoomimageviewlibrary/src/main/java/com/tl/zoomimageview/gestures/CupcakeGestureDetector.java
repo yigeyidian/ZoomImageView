@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-package com.tl.zoomimageviewdemo.gestures;
+package com.tl.zoomimageview.gestures;
 
 import android.content.Context;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.tl.zoomimageviewdemo.gestures;
+package com.tl.zoomimageview.gestures;
 
 
 import android.content.Context;

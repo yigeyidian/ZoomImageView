@@ -13,13 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-package com.tl.zoomimageviewdemo.gestures;
+package com.tl.zoomimageview.gestures;
 
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.view.MotionEvent;
 
-import com.tl.zoomimageviewdemo.Compat;
+import com.tl.zoomimageview.Compat;
 
 
 @TargetApi(5)

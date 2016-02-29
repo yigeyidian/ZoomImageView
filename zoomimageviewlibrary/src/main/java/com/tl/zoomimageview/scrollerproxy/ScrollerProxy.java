@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-package com.tl.zoomimageviewdemo.scrollerproxy;
+package com.tl.zoomimageview.scrollerproxy;
 
 import android.content.Context;
 import android.os.Build.VERSION;

@@ -1,4 +1,4 @@
-package com.tl.zoomimageviewdemo;
+package com.tl.zoomimageview;
 
 import android.graphics.RectF;
 import android.view.GestureDetector;

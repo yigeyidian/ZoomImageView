@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *******************************************************************************/
-package com.tl.zoomimageviewdemo;
+package com.tl.zoomimageview;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -35,9 +35,9 @@ import android.widget.ImageView;
 import android.widget.ImageView.ScaleType;
 
 
-import com.tl.zoomimageviewdemo.gestures.OnGestureListener;
-import com.tl.zoomimageviewdemo.gestures.VersionedGestureDetector;
-import com.tl.zoomimageviewdemo.scrollerproxy.ScrollerProxy;
+import com.tl.zoomimageview.gestures.OnGestureListener;
+import com.tl.zoomimageview.gestures.VersionedGestureDetector;
+import com.tl.zoomimageview.scrollerproxy.ScrollerProxy;
 
 import java.lang.ref.WeakReference;
 
@@ -124,7 +124,7 @@ public class ZoomImageViewAttacher implements IZoomImageView, View.OnTouchListen
 
     // Gesture Detectors
     private GestureDetector mGestureDetector;
-    private com.tl.zoomimageviewdemo.gestures.GestureDetector mScaleDragDetector;
+    private com.tl.zoomimageview.gestures.GestureDetector mScaleDragDetector;
 
     // These are set so we don't keep allocating them on the heap
     private final Matrix mBaseMatrix = new Matrix();
