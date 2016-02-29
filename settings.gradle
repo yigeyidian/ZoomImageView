@@ -1,1 +1,1 @@
-include ':app', ':zoomimageviewlibrary'
+include ':app', ':library'
